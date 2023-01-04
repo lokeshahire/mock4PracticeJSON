@@ -1,28 +1,32 @@
-// const jsonServer = require("json-server");
-// const server = jsonServer.create();
-// const router = jsonServer.router("db.json");
-// const middlewares = jsonServer.defaults();
-// const port = 3008;
+// THIS IS CORRECT WAY OF WRITING SERVER CODE
 
-// server.use(middlewares);
-// server.use(router);
+const jsonServer = require("json-server");
+const server = jsonServer.create();
+const router = jsonServer.router("db.json");
+const middlewares = jsonServer.defaults();
+const port = 3008;
 
-// server.listen(port);
+server.use(middlewares);
+server.use(router);
+
+server.listen(port);
 
 // ----------------------------------------------------------------------------------
 
-const PORT = 3008;
-const path = require("path");
-const jsonServer = require("json-server");
-const server = jsonServer.create();
-const router = jsonServer.router(path.join(__dirname, "db.json"));
-const middlewares = jsonServer.defaults();
-server.use(middlewares);
-server.use(jsonServer.bodyParser);
-server.use("/api", router);
-server.listen(PORT, () =>
-  console.log(`JSON Server is running on port ${PORT}`)
-);
+//GETING WRONG JSON SERVER
+
+// const PORT = 3008;
+// const path = require("path");
+// const jsonServer = require("json-server");
+// const server = jsonServer.create();
+// const router = jsonServer.router(path.join(__dirname, "db.json"));
+// const middlewares = jsonServer.defaults();
+// server.use(middlewares);
+// server.use(jsonServer.bodyParser);
+// server.use("/api", router);
+// server.listen(PORT, () =>
+//   console.log(`JSON Server is running on port ${PORT}`)
+// );
 
 //--------------------------------------------
 
