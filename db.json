@@ -1,105 +1,23 @@
 {
-  "products": [
+  "cars": [
+    {
+      "id": 1,
+      "brand": "Tata",
+      "type": "Manual",
+      "year": 2019,
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 500000
+    },
     {
       "id": 2,
-      "name": "Football",
-      "price": "1347",
-      "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pixel4k.com%2Fwp-content%2Fuploads%2F2018%2F10%2Fsoccer-ball-football-lawn-grass-4k_1540063065.jpg&f=1&nofb=1"
-    },
-    {
-      "id": 3,
-      "name": "Watch",
-      "price": "9999",
-      "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftimeandtidewatches.com%2Fwp-content%2Fuploads%2F2014%2F09%2FMANOFSTEELHaighHastingsWatch-M2-Diver.jpeg&f=1&nofb=1"
-    },
-    {
-      "id": 4,
-      "name": "shoes",
-      "price": "2000",
-      "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.sweatband.com%2Fasics_gel-zaraca_4_mens_running_shoes_ss16_asics_gel-zaraca_4_mens_running_shoes-blue-silver-black_angle_view_2000x2000.jpg&f=1&nofb=1"
-    },
-    {
-      "id": 5,
-      "name": "Football",
-      "price": "1347",
-      "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pixel4k.com%2Fwp-content%2Fuploads%2F2018%2F10%2Fsoccer-ball-football-lawn-grass-4k_1540063065.jpg&f=1&nofb=1"
-    },
-    {
-      "id": 5,
-      "name": "Watch",
-      "price": "9999",
-      "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftimeandtidewatches.com%2Fwp-content%2Fuploads%2F2014%2F09%2FMANOFSTEELHaighHastingsWatch-M2-Diver.jpeg&f=1&nofb=1"
-    },
-    {
-      "id": 6,
-      "name": "shoes",
-      "price": "2000",
-      "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.sweatband.com%2Fasics_gel-zaraca_4_mens_running_shoes_ss16_asics_gel-zaraca_4_mens_running_shoes-blue-silver-black_angle_view_2000x2000.jpg&f=1&nofb=1"
-    },
-    {
-      "id": 7,
-      "name": "Football",
-      "price": "1347",
-      "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pixel4k.com%2Fwp-content%2Fuploads%2F2018%2F10%2Fsoccer-ball-football-lawn-grass-4k_1540063065.jpg&f=1&nofb=1"
-    },
-    {
-      "id": "9",
-      "name": "puma original",
-      "price": "1200",
-      "img": "https://www.bing.com/th?id=OPA.dHjT2Ach6QwkCA474C474&o=5&pid=21.1&w=160&h=160&rs=1&qlt=100&dpr=0.9"
+      "brand": "Tata",
+      "type": "AMT",
+      "year": 2017,
+      "kms": 8000,
+      "Description": "Tata Nexon with all original documents",
+      "Price": 800000
     }
   ],
-
-  "lectures": [
-    {
-      "title": "React",
-      "id": 1
-    },
-    {
-      "title": "Angular",
-      "id": 2
-    },
-    {
-      "title": "Vue",
-      "id": 3
-    },
-    {
-      "title": "JS Advance",
-      "id": 4
-    },
-    {
-      "title": "Svelte",
-      "id": 5
-    },
-    {
-      "title": "Next.js",
-      "id": 6
-    },
-    {
-      "title": "Node.js",
-      "id": 7
-    }
-  ],
-  "Teachers": [
-    {
-      "name": "abc",
-      "id": 1
-    },
-    {
-      "name": "def",
-      "id": 2
-    },
-    {
-      "name": "ghi",
-      "id": 3
-    },
-    {
-      "name": "jkl",
-      "id": 4
-    },
-    {
-      "name": "mno",
-      "id": 5
-    }
-  ]
+  "wishlisted_cars": []
 }
