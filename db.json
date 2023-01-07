@@ -21,5 +21,21 @@
       "img": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Tata/Nexon/7384/1614326304397/front-left-side-47.jpg"
     }
   ],
-  "wishlisted_cars": []
+  "wishlisted_cars": [],
+  "users": [
+    {
+      "id": 1,
+      "username": "lokesh",
+      "email": "lokesh@gmail.com",
+      "password": "abc",
+      "tasks": ["React Assignment", "NextJS", "Evaluation"]
+    },
+    {
+      "id": 2,
+      "username": "hemant",
+      "email": "lokhemantesh@gmail.com",
+      "password": "xyz",
+      "tasks": ["Assignment", "NextJS Problem", "Sprint Lectures"]
+    }
+  ]
 }
