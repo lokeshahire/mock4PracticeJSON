@@ -22,70 +22,36 @@
     }
   ],
   "wishlisted_cars": [],
-  "lectures": [
-    {
-      "title": "RCT 101 DAY 1",
-      "id": 1
-    },
-    {
-      "title": "RCT 101 DAY 2",
-      "id": 2
-    },
-    {
-      "title": "RCT 101 DAY 3",
-      "id": 3
-    },
-    {
-      "title": "RCT 101 DAY 4",
-      "id": 4
-    },
-    {
-      "title": "RCT 101 DAY 5",
-      "id": 5
-    },
-    {
-      "title": "RCT 101 DAY 11",
-      "id": 1659711562502
-    },
-    {
-      "title": "RCT 101 DAY 6",
-      "id": 1659711904835
-    },
-    {
-      "title": "Helloooo",
-      "id": 1673077164390
-    },
-    {
-      "title": "Newwwwwwwww",
-      "id": 1673077342811
-    },
-    {
-      "title": "Newwwwwwwww",
-      "id": 1673077623428
-    }
-  ],
   "users": [
     {
       "id": 1,
       "username": "lokesh",
       "email": "lokesh@gmail.com",
-      "password": "abc",
-      "tasks": [
-        "React Assignment",
-        "NextJS",
-        "Evaluation"
-      ]
+      "password": "abc"
     },
     {
       "id": 2,
       "username": "hemant",
       "email": "lokhemantesh@gmail.com",
       "password": "xyz",
-      "tasks": [
-        "Assignment",
-        "NextJS Problem",
-        "Sprint Lectures"
-      ]
+      "tasks": ["Assignment", "NextJS Problem", "Sprint Lectures"]
+    },
+    {
+      "title": "hu",
+      "id": 1673078722386
+    },
+    {
+      "title": "hello",
+      "id": 1673078857686
+    },
+    {
+      "title": "helloooo",
+      "id": 1673079005151
+    },
+    {
+      "title": "hello",
+      "id": 1673081105231
     }
-  ]
+  ],
+  "lectures": []
 }
