@@ -34,7 +34,11 @@
       "username": "hemant",
       "email": "lokhemantesh@gmail.com",
       "password": "xyz",
-      "tasks": ["Assignment", "NextJS Problem", "Sprint Lectures"]
+      "tasks": [
+        "Assignment",
+        "NextJS Problem",
+        "Sprint Lectures"
+      ]
     },
     {
       "title": "hu",
@@ -54,7 +58,6 @@
     }
   ],
   "lectures": [],
-
   "dogs": [
     {
       "id": 1,
@@ -64,11 +67,74 @@
       "gender": "Male"
     },
     {
-      "id": 1,
+      "id": 18888,
       "name": "Tommy",
       "age": 3,
       "place": "Banglore",
       "gender": "Female"
+    },
+    {
+      "name": "Labro",
+      "age": "5",
+      "gender": "Male",
+      "place": "Nashik",
+      "id": 2
+    },
+    {
+      "name": "Charlie",
+      "age": "2",
+      "gender": "Male",
+      "place": "Mumbai",
+      "id": 3
+    },
+    {
+      "name": "Cooper",
+      "age": "1",
+      "gender": "Female",
+      "place": "Pune",
+      "id": 4
+    },
+    {
+      "name": "Teddy",
+      "age": "6",
+      "gender": "Female",
+      "place": "Satana",
+      "id": 5
+    },
+    {
+      "name": "Rocky",
+      "age": "4",
+      "gender": "Male",
+      "place": "Delhi",
+      "id": 6
+    },
+    {
+      "name": "Tommy",
+      "age": "21",
+      "gender": "Male",
+      "place": "Khirmani",
+      "id": 18889
+    },
+    {
+      "name": "Raja",
+      "age": "1",
+      "gender": "Female",
+      "place": "Home",
+      "id": 18890
+    },
+    {
+      "name": "Kala",
+      "age": "5",
+      "gender": "Female",
+      "place": "Dubai",
+      "id": 18891
+    },
+    {
+      "name": "Lucy",
+      "age": "2",
+      "gender": "Female",
+      "place": "England",
+      "id": 18892
     }
   ]
 }
